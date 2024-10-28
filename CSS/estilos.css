@@ -10,4 +10,5 @@ body{
     background-color: #333;
     color:#FFF;
     display: flex;
+    flex-direction:col;
 }
