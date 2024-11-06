@@ -51,8 +51,9 @@ header h1, a{
     color: #FFF;
 }
 header h1:hover, a:hover{
-    
+    color: #00E0FF;
 }
+/*MAIN*/
 main{
     padding: 5%;
     display: flex;
