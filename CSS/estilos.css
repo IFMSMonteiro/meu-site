@@ -84,6 +84,7 @@ main .techs .cards-cotainer{
     display: flex;
     align-items: center;
 }
+/*CARDS*/
 main .techs .cards-cotainer .card{
     width: 120px;
     height: 120px;
